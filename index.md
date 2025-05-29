@@ -453,3 +453,8 @@ Please check the "Setup" page of
 <a href="{{site.incubator_lesson_site}}">the lesson homepage</a> for instructions to follow
 to obtain the software and data you will need to follow the lesson.
 {% endif %}
+
+<h2 id="test">Test Your Setup</h2>
+<p>
+When you have installed all of the software, head to this <a href="https://abostroem.github.io/2025-06-07-aas/setup/index.html">webpage</a> for instructions on testing your setup
+</p>
